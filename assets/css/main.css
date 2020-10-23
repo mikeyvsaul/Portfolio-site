@@ -132,11 +132,21 @@ input, select, textarea {
 
 		h2.alt {
 			color: #888;
+			font-size: 35px;
 		}
 
 			h2.alt strong {
 				color: #666;
 			}
+
+		.header-p {
+			font-size: 18px;
+			color: white;
+		}
+
+		.project-p {
+			font-size: 18px;
+		}
 
 	h3 {
 		font-size: 1.5em;
@@ -2248,7 +2258,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("https://i.imgur.com/PGqFpBO.jpg");
 			}
 
 			#main > section.two {
