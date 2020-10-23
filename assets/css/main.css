@@ -138,6 +138,10 @@ input, select, textarea {
 			h2.alt strong {
 				color: #666;
 			}
+		
+		#h2-title {
+			font-size: 35px;
+		}
 
 		.header-p {
 			font-size: 18px;
@@ -2648,4 +2652,8 @@ input, select, textarea {
 
 .project-desc {
 	font-size: 14px;
+}
+
+.contact {
+	list-style-type: none;
 }
